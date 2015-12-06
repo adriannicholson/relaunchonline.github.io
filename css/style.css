@@ -402,11 +402,10 @@ footer{
     font-size: 16px;
 }
 ul.icon_list{
-    margin: 0;
     padding: 0;
     list-style: none;
     text-align: center;
-    margin-top: 20px;
+    margin: 20px 0 0;
 }
 ul.icon_list li{
     display: inline;

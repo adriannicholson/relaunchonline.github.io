@@ -30,7 +30,7 @@ function main() {
     ======================================*/
     $('body').scrollspy({ 
       target: '.navmenu',
-      offset: 80,
+      offset: 80
     });
 
 
