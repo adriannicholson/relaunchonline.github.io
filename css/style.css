@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6{
     color: #f74d65;
 }
 header{
-    background: url(../images/header_bg.jpg) no-repeat;
+    background: url(../images/to_bg.png) no-repeat;
     background-size: cover;
 }
 .section_overlay{
@@ -166,7 +166,7 @@ header{
 
 /*Fun Facts*/
 .fun_facts{
-    background: url(../images/header_bg.jpg);
+    background: url(../images/to_bg.png);
     background-attachment: fixed !important;
     background-repeat: repeat;
 
